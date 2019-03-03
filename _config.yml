@@ -6,10 +6,18 @@
 name: Eugene Rusalev
 
 # Short bio or description (displayed in the header)
-description: Salesforce Architect
+description: Salesforce Solution Architect
+
+tagline: Salesforce Solution Architect
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/steals/master/images/jekyll-logo.png
+
+email: e.rusalev@gmail.com
+website: steals.github.io
+linkedin: eugenerusalev
+github: steals
+twitter: iSteals
 
 #
 # Flags below are optional
@@ -18,16 +26,16 @@ avatar: https://raw.githubusercontent.com/steals/master/images/jekyll-logo.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: e.rusalev@gmail.com
   facebook:
   flickr:
   github: steals
   instagram:
-  linkedin:
+  linkedin: eugenerusalev
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: isteals
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  stackoverflow: users/7515/steals # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
